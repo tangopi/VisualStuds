@@ -23,6 +23,7 @@ namespace Wepee
 {
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.
+    /// yeah? yeah
     /// </summary>
     public sealed partial class App : Application
     {
